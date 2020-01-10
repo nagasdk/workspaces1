@@ -1,0 +1,17 @@
+I am excited to apply for this jop opening at your organization.
+Your commitment to customer satisfaction is something I’ve always strived for in my own career. I’d love to bring this dedication, along with my relevant skills and experience, to your winning company.
+
+
+During [2013 - TillDate ], I worked as Technology Architect for Infosys Technologies Ltd, Hyderabad 
+And here i was working for a major Banking Client - U.S.A.
+As a Technolgy Architect, I have Designed and Developed Test Automation Tool i.e.,  A Complete Full Stack Web application  that would enable
+any person who is layman  to automation - They can start writing scripts, run scripts across any local,virtual, cloud machines. This tool is no where less to other industry leading tools like UFT,TOSCA. Have  enabled the features which compete with the features prevalent in above Tools. This tool is like a wrapper on top of Selenium with the flavor of Web application to end user.
+
+
+During 2008-2012, I worked as Sr QA Engineer  with Progress SOftware, Hyderabad. Here i was designed various QA frameworks for multiple products like Sonic, OpenEdge and DXSI.
+
+
+During 2007-2008, I worked as Sr QA Engineer with SAP LABS, Bangalore. Here i had been working as QA Developer to create,execute automation scripts.
+
+
+During 2006-2008, I worjed as Associate Consultant at GENPACT, Hyderabad. Here i had been working as QA Developer to create,execute automation scripts.
