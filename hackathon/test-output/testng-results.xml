@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19244" started-at="2019-11-09T11:19:37Z" finished-at="2019-11-09T11:19:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19244" started-at="2019-11-09T11:19:37Z" finished-at="2019-11-09T11:19:57Z">
+      <class name="extentreport.examples.RegulatorRequirement">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:extentreport.examples.RegulatorRequirement@70685914]" name="beforeTest" is-config="true" duration-ms="116" started-at="2019-11-09T11:19:37Z" finished-at="2019-11-09T11:19:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchBrowser()[pri:1, instance:extentreport.examples.RegulatorRequirement@70685914]" name="launchBrowser" duration-ms="3775" started-at="2019-11-09T11:19:38Z" finished-at="2019-11-09T11:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="test2X()[pri:2, instance:extentreport.examples.RegulatorRequirement@70685914]" name="test2X" duration-ms="172" started-at="2019-11-09T11:19:41Z" finished-at="2019-11-09T11:19:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2X -->
+        <test-method status="PASS" signature="testDashboard()[pri:3, instance:extentreport.examples.RegulatorRequirement@70685914]" name="testDashboard" duration-ms="12117" started-at="2019-11-09T11:19:42Z" finished-at="2019-11-09T11:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDashboard -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:extentreport.examples.RegulatorRequirement@70685914]" name="afterTest" is-config="true" duration-ms="3024" started-at="2019-11-09T11:19:54Z" finished-at="2019-11-09T11:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- extentreport.examples.RegulatorRequirement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
